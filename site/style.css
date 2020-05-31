@@ -1,0 +1,27 @@
+html, body {
+    background-color: darkgrey;
+    text-align: center;
+}
+
+p {
+    margin: 25px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#content {
+    margin-top: 100px;
+    background-color: whitesmoke;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#hand {
+    font-size: 50pt;
+}
+
