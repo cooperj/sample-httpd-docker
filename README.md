@@ -30,5 +30,5 @@ sudo docker build -t myproject .
 That is it, you can launch the project any way you like, here is a sample command.
 
 ```
-sudo docker run -dit --name sample-site -p 8008:80 mywebsitetest1
+sudo docker run -dit --name sample-site -p 8008:80 myproject
 ```
